@@ -16,10 +16,10 @@
 					color: white;
 					text-align: center;
 				}  
-    <style>
-    <div class="container">
+    </style>
+    	<div class="container">
 				<h1>Testing svg</h1>
 				
-			</div>
+	</div>
   <foreignObject>
 </svg>
