@@ -1,10 +1,4 @@
-<h1 color="#222"> Hi there 👋 </h1>
 
-     - My name is Diogo. I'm 18 years old. I'm studying programming an 3d modeling as well since 2018, I've started to learn about games, but started studying anothers areas, now I have knowledges with apps and web ass well.
-
- <div>
-   <h2>My skills 💼 </h2>
- </div>
  <div align="start">
     <img 
 		     width="30"
