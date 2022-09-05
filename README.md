@@ -55,11 +55,6 @@
 		     height="40"
 		     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
 		   />
-      <img 
-		     width="30"
-		     height="40"
-		     src=""
-		   />
      
      
  </div>
