@@ -58,5 +58,7 @@
      
      
  </div>
-  
-</div>
+ <h1>Operating systems </h1>
+ <div>
+   <img width="40" height="40" src="https://raw.githubusercontent.com/21Chani/21Chani/main/ubuntu.png"/>
+ </div>
