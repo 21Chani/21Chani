@@ -62,5 +62,5 @@
  <div>
    <img width="40" height="40" src="https://raw.githubusercontent.com/21Chani/21Chani/main/ubuntu.png"/>
    <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
-   <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
+   <img width="35" height="40" src="https://raw.githubusercontent.com/21Chani/21Chani/main/apple.svg"/>
  </div>
