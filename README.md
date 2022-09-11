@@ -43,6 +43,11 @@
      <img 
 		     width="30"
 		     height="40"
+		     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"
+		   />
+     <img 
+		     width="30"
+		     height="40"
 		     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
 		   />
       <img 
