@@ -60,7 +60,7 @@
   	<img alt="MySql" src="https://img.shields.io/badge/MySql-202025?style=for-the-badge&logo=mysql&logoColor=white" /> 
 </div>
 
----
+<h1></h1>
 
 <div align="center">
   <img width="550" src="https://github.com/21Chani/21Chani/blob/main/Coding.gif"/>
