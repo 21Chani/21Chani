@@ -9,7 +9,7 @@
 	<img  src="https://wakatime.com/badge/user/dbdb1678-4a7b-455d-abe2-0c7fe078c4f7.svg"/>
 </div>
 
-<h1>Hey sir! :wave:</h1>
+---
 
 - ### 🤙 About me
 	- Love to make 3d modeling on my free time
@@ -32,8 +32,6 @@
 		<img alt="Python" src="https://img.shields.io/badge/Python-F7C83F?style=for-the-badge&logo=python&logoColor=white" /> 
 		<img alt="Solidity" src="https://img.shields.io/badge/Solidity-393839?style=for-the-badge&logo=solidity&logoColor=white" /> 
 </div>
-
-<h1></h1>
 
 - <h3>⚒️ Tools</h3>
 <div >
@@ -61,7 +59,6 @@
 	<img alt="Alacritty" src="https://img.shields.io/badge/Alacritty-E44409?style=for-the-badge&logo=alacritty&logoColor=white" /> 
 </div>
 
-<h1></h1>
 
 - <h3 align="cente"> 💻 Operating systems </h3>
 <div align="cente">
@@ -69,8 +66,6 @@
 		<img alt="Windows 10" src="https://img.shields.io/badge/Windows-88C0D0?style=for-the-badge&logo=windows&logoColor=white" />
 		<img alt="Apple" src="https://img.shields.io/badge/Apple-B48EAD?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
-
-<h1></h1>
 
 - <h3>📦 Databases </h3>
 <div>
