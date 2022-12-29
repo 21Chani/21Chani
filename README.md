@@ -1,3 +1,22 @@
+<div align="center">
+  <img width="400" src="https://github.com/21Chani/21Chani/blob/main/Coding.gif"/>
+</div>
+<div align="center">
+	<img alt="Linkedin" href="" src="https://img.shields.io/badge/Linkedin-2967B3?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+	<img alt="Discord" src="https://img.shields.io/badge/Discord-525EEE?style=for-the-badge&logo=discord&logoColor=white" /> 
+</div>
+<div align="center">
+	<img  src="https://wakatime.com/badge/user/dbdb1678-4a7b-455d-abe2-0c7fe078c4f7.svg"/>
+</div>
+
+<h1>Hey sir! :wave:</h1>
+
+- ### 🤙 About me
+	- Love to make 3d modeling on my free time
+	- Full stack web developer
+	- 19 years old
+	- Brazilian 🇧🇷
+	- I hate leg day 😠
 
  - <h3 align="cente">📜 Languages</h3>
  <div align="cente">
@@ -22,7 +41,8 @@
 	<img alt="Vuejs" src="https://img.shields.io/badge/Vuejs-41B982?style=for-the-badge&logo=vue.js&logoColor=white" /> 
 	<img alt="Vuejs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
 	<img alt="Chakra" src="https://img.shields.io/badge/Chakra UI-63CBCD?style=for-the-badge&logo=next.js&logoColor=white" /> 
-	<img alt="Express" src="https://img.shields.io/badge/Express js-8BBF3D?style=for-the-badge&logo=express&logoColor=white" /> 
+	<img alt="Express" src="https://img.shields.io/badge/Express js-8BBF3D?style=for-the-badge&logo=express&logoColor=white" />
+		<img alt="Tmux" src="https://img.shields.io/badge/Tmux-1AB31E?style=for-the-badge&logo=tmux&logoColor=white" /> 
 </div>
 <div >
 	<img alt="React" src="https://img.shields.io/badge/React-58C5E1?style=for-the-badge&logo=react&logoColor=white" /> 
@@ -38,6 +58,7 @@
 	<img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-303031?style=for-the-badge&logo=node.js&logoColor=3C823B" /> 
 	<img alt="Intellij" src="https://img.shields.io/badge/Intellij Idea-black?style=for-the-badge&logo=intellijidea&logoColor=F62E5B" /> 
 	<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5948BE?style=for-the-badge&logo=insomnia&logoColor=white" /> 
+	<img alt="Alacritty" src="https://img.shields.io/badge/Alacritty-E44409?style=for-the-badge&logo=alacritty&logoColor=white" /> 
 </div>
 
 <h1></h1>
@@ -62,6 +83,5 @@
 
 <h1></h1>
 
-<div align="center">
-  <img width="550" src="https://github.com/21Chani/21Chani/blob/main/Coding.gif"/>
-</div>
+
+
