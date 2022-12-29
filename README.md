@@ -19,7 +19,6 @@
 - <h3>⚒️ Tools</h3>
 <div >
 	<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-39B2AD?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
-	<img alt="Firebase" src="https://img.shields.io/badge/Firebase-F48320?style=for-the-badge&logo=firebase&logoColor=white" /> 
 	<img alt="Vuejs" src="https://img.shields.io/badge/Vuejs-41B982?style=for-the-badge&logo=vue.js&logoColor=white" /> 
 	<img alt="Vuejs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
 	<img alt="Chakra" src="https://img.shields.io/badge/Chakra UI-63CBCD?style=for-the-badge&logo=next.js&logoColor=white" /> 
@@ -48,4 +47,21 @@
 		<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-BF616A?style=for-the-badge&logo=ubuntu&logoColor=white" />
 		<img alt="Windows 10" src="https://img.shields.io/badge/Windows-88C0D0?style=for-the-badge&logo=windows&logoColor=white" />
 		<img alt="Apple" src="https://img.shields.io/badge/Apple-B48EAD?style=for-the-badge&logo=apple&logoColor=white" />
+</div>
+
+<h1></h1>
+
+- <h3>📦 Databases </h3>
+<div>
+  	<img alt="Firebase" src="https://img.shields.io/badge/Firebase-F48320?style=for-the-badge&logo=firebase&logoColor=white" /> 
+  	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  	<img alt="Mongo DB" src="https://img.shields.io/badge/Mongo DB-0EA44D?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  	<img alt="Redis" src="https://img.shields.io/badge/Redis-D3291E?style=for-the-badge&logo=redis&logoColor=white" /> 
+  	<img alt="MySql" src="https://img.shields.io/badge/MySql-202025?style=for-the-badge&logo=mysql&logoColor=white" /> 
+</div>
+
+---
+
+<div align="center">
+  <img width="550" src="https://github.com/21Chani/21Chani/blob/main/Coding.gif"/>
 </div>
