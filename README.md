@@ -27,39 +27,42 @@
 		<img alt="Solidity" src="https://img.shields.io/badge/Solidity-393839?style=for-the-badge&logo=solidity&logoColor=white" /> 
 </div>
 
-- <h3>⚒️ Tools</h3>
+- ### ⚡️ Skills
 <div >
-	<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-39B2AD?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
 	<img alt="Vuejs" src="https://img.shields.io/badge/Vuejs-41B982?style=for-the-badge&logo=vue.js&logoColor=white" /> 
-	<img alt="Vuejs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
-	<img alt="Chakra" src="https://img.shields.io/badge/Chakra UI-63CBCD?style=for-the-badge&logo=next.js&logoColor=white" /> 
-	<img alt="Express" src="https://img.shields.io/badge/Express js-8BBF3D?style=for-the-badge&logo=express&logoColor=white" />
-		<img alt="Tmux" src="https://img.shields.io/badge/Tmux-1AB31E?style=for-the-badge&logo=tmux&logoColor=white" /> 
-</div>
-<div >
+	<img alt="Nextjs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
 	<img alt="React" src="https://img.shields.io/badge/React-58C5E1?style=for-the-badge&logo=react&logoColor=white" /> 
-	<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-02AFEE?style=for-the-badge&logo=sequelize&logoColor=white" /> 
-	<img alt="Figma" src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" /> 
-	<img alt="Blender" src="https://img.shields.io/badge/Blender-E87401?style=for-the-badge&logo=blender&logoColor=white" />	
-	<img alt="Headless" src="https://img.shields.io/badge/Headless ui-6E76FB?style=for-the-badge&logo=headlessui&logoColor=white" />	
-	<img alt="Turbo" src="https://img.shields.io/badge/Turbo repo-B94186?style=for-the-badge&logo=turborepo&logoColor=white" />	
-</div>
-<div >
-	<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2B8AB5?style=for-the-badge&logo=yarn&logoColor=white" /> 
-	<img alt="Vscode" src="https://img.shields.io/badge/Vscode-0176C7?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
-	<img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-303031?style=for-the-badge&logo=node.js&logoColor=3C823B" /> 
-	<img alt="Intellij" src="https://img.shields.io/badge/Intellij Idea-black?style=for-the-badge&logo=intellijidea&logoColor=F62E5B" /> 
-	<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5948BE?style=for-the-badge&logo=insomnia&logoColor=white" /> 
-	<img alt="Alacritty" src="https://img.shields.io/badge/Alacritty-E44409?style=for-the-badge&logo=alacritty&logoColor=white" /> 
+	<img alt="Express" src="https://img.shields.io/badge/Express js-8BBF3D?style=for-the-badge&logo=express&logoColor=white" />
+	<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-02AFEE?style=for-the-badge&logo=sequelize&logoColor=white" />
+	<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-427B3F?style=for-the-badge&logo=mongoose&logoColor=white" />
 </div>
 <div>
-	<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> 
+	<img alt="Chakra" src="https://img.shields.io/badge/Chakra UI-63CBCD?style=for-the-badge&logo=next.js&logoColor=white" /> 
+	<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-39B2AD?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
+	<img alt="Headless" src="https://img.shields.io/badge/Headless ui-6E76FB?style=for-the-badge&logo=headlessui&logoColor=white" />	
+	<img alt="Postcss" src="https://img.shields.io/badge/Postcss-d23a07?style=for-the-badge&logo=postcss&logoColor=white" />	
+</div>
+<div>
+	<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2B8AB5?style=for-the-badge&logo=yarn&logoColor=white" /> 
 	<img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> 
-	<img alt="Jest" src="https://img.shields.io/badge/Jest-BE3A17?style=for-the-badge&logo=Jest&logoColor=white" /> 
-
-	
+	<img alt="Jest" src="https://img.shields.io/badge/Jest-BE3A17?style=for-the-badge&logo=Jest&logoColor=white" />
+	<img alt="Turbo" src="https://img.shields.io/badge/Turbo repo-B94186?style=for-the-badge&logo=turborepo&logoColor=white" />	
 </div>
 
+- <h3>⚒️ Tools</h3>
+<div >
+	<img alt="Tmux" src="https://img.shields.io/badge/Tmux-1AB31E?style=for-the-badge&logo=tmux&logoColor=white" /> 
+	<img alt="Alacritty" src="https://img.shields.io/badge/Alacritty-E44409?style=for-the-badge&logo=alacritty&logoColor=white" /> 
+	<img alt="Vscode" src="https://img.shields.io/badge/Vscode-0176C7?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
+	<img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-303031?style=for-the-badge&logo=node.js&logoColor=3C823B" /> 
+</div>
+<div >
+	<img alt="Intellij" src="https://img.shields.io/badge/Intellij Idea-black?style=for-the-badge&logo=intellijidea&logoColor=F62E5B" /> 
+	<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5948BE?style=for-the-badge&logo=insomnia&logoColor=white" /> 
+	<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> 
+	<img alt="Figma" src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" /> 
+	<img alt="Blender" src="https://img.shields.io/badge/Blender-E87401?style=for-the-badge&logo=blender&logoColor=white" />	
+</div>
 
 - <h3 align="cente"> 💻 Operating systems </h3>
 <div align="cente">
