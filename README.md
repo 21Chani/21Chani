@@ -29,7 +29,6 @@
 
 - ### ⚡️ Skills
 <div >
-	<img alt="Vuejs" src="https://img.shields.io/badge/Vuejs-41B982?style=for-the-badge&logo=vue.js&logoColor=white" /> 
 	<img alt="Nextjs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
 	<img alt="React" src="https://img.shields.io/badge/React-58C5E1?style=for-the-badge&logo=react&logoColor=white" /> 
 	<img alt="Express" src="https://img.shields.io/badge/Express js-8BBF3D?style=for-the-badge&logo=express&logoColor=white" />
@@ -47,6 +46,11 @@
 	<img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> 
 	<img alt="Jest" src="https://img.shields.io/badge/Jest-BE3A17?style=for-the-badge&logo=Jest&logoColor=white" />
 	<img alt="Turbo" src="https://img.shields.io/badge/Turbo repo-B94186?style=for-the-badge&logo=turborepo&logoColor=white" />	
+</div>
+<div >
+	<img alt="Vuejs" src="https://img.shields.io/badge/Vuejs-41B982?style=for-the-badge&logo=vue.js&logoColor=white" /> 
+	<img alt="Vitejs" src="https://img.shields.io/badge/vite-5FAAFE?style=for-the-badge&logo=vite&logoColor=white" /> 
+	
 </div>
 
 - <h3>⚒️ Tools</h3>
