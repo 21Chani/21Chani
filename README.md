@@ -26,8 +26,12 @@
 		<img alt="Python" src="https://img.shields.io/badge/Python-F7C83F?style=for-the-badge&logo=python&logoColor=white" /> 
 		<img alt="Solidity" src="https://img.shields.io/badge/Solidity-393839?style=for-the-badge&logo=solidity&logoColor=white" /> 
 </div>
+ <div align="cente">
+		<img alt="C++" src="https://img.shields.io/badge/C++-2F74C0?style=for-the-badge&logo=cplusplus&logoColor=white" /> 
+</div>
 
 - ### ⚡️ Skills
+
 <div >
 	<img alt="Nextjs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
 	<img alt="React" src="https://img.shields.io/badge/React-58C5E1?style=for-the-badge&logo=react&logoColor=white" /> 
