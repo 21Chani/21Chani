@@ -56,6 +56,9 @@
 	<img alt="Vitejs" src="https://img.shields.io/badge/vite-5FAAFE?style=for-the-badge&logo=vite&logoColor=white" /> 
 	
 </div>
+<div>
+	<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-53839F?style=for-the-badge&logo=opengl&logoColor=white" /> 
+</div>
 
 - <h3>⚒️ Tools</h3>
 <div >
