@@ -56,6 +56,7 @@
 <div >
 	<img alt="Vuejs" src="https://img.shields.io/badge/Vuejs-41B982?style=for-the-badge&logo=vue.js&logoColor=white" /> 
 	<img alt="Vitejs" src="https://img.shields.io/badge/vite-5FAAFE?style=for-the-badge&logo=vite&logoColor=white" /> 
+	<img alt="AWS" src="https://img.shields.io/badge/AWS-D3291E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
 	
 </div>
 <div>
