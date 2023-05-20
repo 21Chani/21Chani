@@ -29,7 +29,7 @@
  <div align="cente">
 		<img alt="C++" src="https://img.shields.io/badge/C++-2F74C0?style=for-the-badge&logo=cplusplus&logoColor=white" /> 
 		<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> 
-
+		<img alt="Go" src="https://img.shields.io/badge/HCL-black?style=for-the-badge&logo=hcl&logoColor=white" /> 
 </div>
 
 - ### ⚡️ Skills
