@@ -2,10 +2,6 @@
   <img width="400" src="https://github.com/21Chani/21Chani/blob/main/Coding.gif"/>
 </div>
 <div align="center">
-	<img alt="Linkedin" href="" src="https://img.shields.io/badge/Linkedin-2967B3?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-	<img alt="Discord" src="https://img.shields.io/badge/Chani 1496-525EEE?style=for-the-badge&logo=discord&logoColor=white" /> 
-</div>
-<div align="center">
 	<img  src="https://wakatime.com/badge/user/dbdb1678-4a7b-455d-abe2-0c7fe078c4f7.svg"/>
 </div>
 
