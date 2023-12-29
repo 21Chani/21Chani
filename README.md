@@ -78,6 +78,7 @@
 
 - <h3 align="cente"> 💻 Operating systems </h3>
 <div align="cente">
+		<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" />
 		<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-BF616A?style=for-the-badge&logo=ubuntu&logoColor=white" />
 		<img alt="Windows 10" src="https://img.shields.io/badge/Windows-88C0D0?style=for-the-badge&logo=windows&logoColor=white" />
 		<img alt="MacOS" src="https://img.shields.io/badge/MacOS-B48EAD?style=for-the-badge&logo=apple&logoColor=white" />
