@@ -28,38 +28,37 @@
   		<img alt="Go" src="https://img.shields.io/badge/HCL-black?style=for-the-badge&logo=hcl&logoColor=white" /> 
   </div>
 
-- ### ⚡️ Skills
-
-<div >
-	<img alt="Nextjs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
-	<img alt="React" src="https://img.shields.io/badge/React-58C5E1?style=for-the-badge&logo=react&logoColor=white" /> 
-	<img alt="Express" src="https://img.shields.io/badge/Express js-8BBF3D?style=for-the-badge&logo=express&logoColor=white" />
-	<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-02AFEE?style=for-the-badge&logo=sequelize&logoColor=white" />
-	<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-427B3F?style=for-the-badge&logo=mongoose&logoColor=white" />
-</div>
-<div>
-	<img alt="Chakra" src="https://img.shields.io/badge/Chakra UI-63CBCD?style=for-the-badge&logo=next.js&logoColor=white" /> 
-	<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-39B2AD?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
-	<img alt="Headless" src="https://img.shields.io/badge/Headless ui-6E76FB?style=for-the-badge&logo=headlessui&logoColor=white" />	
-	<img alt="Postcss" src="https://img.shields.io/badge/Postcss-d23a07?style=for-the-badge&logo=postcss&logoColor=white" />	
-</div>
-<div>
-	<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2B8AB5?style=for-the-badge&logo=yarn&logoColor=white" /> 
-	<img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> 
-	<img alt="Jest" src="https://img.shields.io/badge/Jest-BE3A17?style=for-the-badge&logo=Jest&logoColor=white" />
-	<img alt="Turbo" src="https://img.shields.io/badge/Turbo repo-B94186?style=for-the-badge&logo=turborepo&logoColor=white" />	
-</div>
-<div >
-	<img alt="Vuejs" src="https://img.shields.io/badge/Vuejs-41B982?style=for-the-badge&logo=vue.js&logoColor=white" /> 
-	<img alt="Vitejs" src="https://img.shields.io/badge/vite-5FAAFE?style=for-the-badge&logo=vite&logoColor=white" /> 
-	<img alt="AWS" src="https://img.shields.io/badge/AWS-D3291E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
-	<img alt="Terraform" src="https://img.shields.io/badge/Terraform-7741B7?style=for-the-badge&logo=terraform&logoColor=FFF" /> 
-	
-</div>
-<div>
-	<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-53839F?style=for-the-badge&logo=opengl&logoColor=white" />
-	<img alt="Docker" src="https://img.shields.io/badge/Docker-2390E7?style=for-the-badge&logo=docker&logoColor=white" /> 
-</div>
+- <h3>⚡️ Skills</h3>
+  <div  >
+  	<img alt="Nextjs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
+  	<img alt="React" src="https://img.shields.io/badge/React-58C5E1?style=for-the-badge&logo=react&logoColor=white" /> 
+  	<img alt="Express" src="https://img.shields.io/badge/Express js-8BBF3D?style=for-the-badge&logo=express&logoColor=white" />
+  	<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-02AFEE?style=for-the-badge&logo=sequelize&logoColor=white" />
+  	<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-427B3F?style=for-the-badge&logo=mongoose&logoColor=white" />
+  </div>
+  <div>
+  	<img alt="Chakra" src="https://img.shields.io/badge/Chakra UI-63CBCD?style=for-the-badge&logo=next.js&logoColor=white" /> 
+  	<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-39B2AD?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
+  	<img alt="Headless" src="https://img.shields.io/badge/Headless ui-6E76FB?style=for-the-badge&logo=headlessui&logoColor=white" />	
+  	<img alt="Postcss" src="https://img.shields.io/badge/Postcss-d23a07?style=for-the-badge&logo=postcss&logoColor=white" />	
+  </div>
+  <div>
+  	<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2B8AB5?style=for-the-badge&logo=yarn&logoColor=white" /> 
+  	<img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> 
+  	<img alt="Jest" src="https://img.shields.io/badge/Jest-BE3A17?style=for-the-badge&logo=Jest&logoColor=white" />
+  	<img alt="Turbo" src="https://img.shields.io/badge/Turbo repo-B94186?style=for-the-badge&logo=turborepo&logoColor=white" />	
+  </div>
+  <div >
+  	<img alt="Vuejs" src="https://img.shields.io/badge/Vuejs-41B982?style=for-the-badge&logo=vue.js&logoColor=white" /> 
+  	<img alt="Vitejs" src="https://img.shields.io/badge/vite-5FAAFE?style=for-the-badge&logo=vite&logoColor=white" /> 
+  	<img alt="AWS" src="https://img.shields.io/badge/AWS-D3291E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+  	<img alt="Terraform" src="https://img.shields.io/badge/Terraform-7741B7?style=for-the-badge&logo=terraform&logoColor=FFF" /> 
+  	
+  </div>
+  <div>
+  	<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-53839F?style=for-the-badge&logo=opengl&logoColor=white" />
+  	<img alt="Docker" src="https://img.shields.io/badge/Docker-2390E7?style=for-the-badge&logo=docker&logoColor=white" /> 
+  </div>
 
 - <h3>⚒️ Tools</h3>
   <div >
